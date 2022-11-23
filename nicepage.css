@@ -38254,42 +38254,29 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 110px;
-}
-
-.u-header .u-image-1 {
-  width: 142px;
-  height: 86px;
-  margin: 12px auto 0 0;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+  min-height: 60px;
 }
 
 .u-header .u-menu-1 {
-  margin: -42px 0 22px auto;
+  margin: 14px 15px 14px auto;
 }
 
 .u-header .u-nav-1 {
   font-weight: 700;
   font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-3 {
   font-size: 1.25rem;
 }
 @media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 142px;
+  .u-header .u-menu-1 {
+    margin-right: 15px;
   }
 
-  .u-header .u-menu-1 {
-    width: auto;
-    margin-top: -42px;
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
